@@ -1,22 +1,4 @@
-# Python & Machine Learning Interview Questions with Answers - 2025
-## Master Essential Python Concepts and Machine Learning Techniques to Ace Your Next Technical Interview
-<!-- Feature Image -->
-| ![Interview Photo](https://github.com/Tanu-N-Prabhu/Python/blob/f00cc0bfb9fbbf7482559d0ea19ae4b1d284e5af/Img/sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg) | 
-|:--:| 
-| Photo by <a href="https://unsplash.com/@officestock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sebastian Herrmann</a> on <a href="https://unsplash.com/photos/four-men-looking-to-the-paper-on-table-O2o1hzDA7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>|
-
-![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)
-
-<!-- Content-->
-
-# Stay Connected
-
-- Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python and Machine Learning interview questions & insights!   
-- Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
-- Got a different solution? Drop your thoughts in the discussions! Let’s learn together!
-
-
-# Table of Contents
+Table of Contents
 
 ➡ [Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#introduction)
 
@@ -1077,23 +1059,11 @@ def search(nums, target):
 46. [Python Lists from Scratch](https://towardsdatascience.com/python-lists-from-scratch-4b958eb956fc)
 47. [Manipulating the data with Pandas using Python](https://towardsdatascience.com/manipulating-the-data-with-pandas-using-python-be6c5dfabd47)
 48. [Data Cleaning using Python with Pandas Library](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)
-    
-
-# Credits
-This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
-
-Feel free to explore, contribute, and share your feedback. Happy coding!
-
-> Tip for interview prep: Always understand the logic behind these problems and practice writing clean, efficient code. Challenge yourself with more problems to boost your skills! 
 
 
 
 <br>
 <br>
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
 
